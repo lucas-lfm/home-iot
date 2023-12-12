@@ -1,0 +1,16 @@
+.img-sensor {
+  width: 100%;
+}
+
+.data-sensors {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.data-sensors {
+  font-size: 1.2rem;
+}
+
+.data-sensors span {
+  font-weight: bold;
+}
